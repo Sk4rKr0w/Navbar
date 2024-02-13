@@ -1,3 +1,5 @@
+#Navbar
+
 This is a sample of NavBar in HTML / CSS / JavaScript using a very simple style. You will find 4 different files:
 
 - index.html: This file contains the main structure of the navbar.
